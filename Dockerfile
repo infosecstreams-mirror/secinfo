@@ -21,6 +21,6 @@ CMD ["/app/secinfo"]
 LABEL org.opencontainers.image.authors='goproslowyo@gmail.com'
 LABEL org.opencontainers.image.description="Update Markdown Files based on Streaming Activity "
 LABEL org.opencontainers.image.licenses='Apache-2.0'
-LABEL org.opencontainers.image.source='https://github.com/infosecstreams/secinfo'
+LABEL org.opencontainers.image.source='https://github.com/infosecstreams-mirror/secinfo'
 LABEL org.opencontainers.image.url='https://infosecstreams.com'
 LABEL org.opencontainers.image.vendor='InfoSec Streams'

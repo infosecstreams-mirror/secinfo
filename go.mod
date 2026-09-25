@@ -1,4 +1,4 @@
-module github.com/infosecstreams/secinfo
+module github.com/infosecstreams-mirror/secinfo
 
 go 1.26
 

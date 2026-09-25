@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/infosecstreams/secinfo/streamers"
+	"github.com/infosecstreams-mirror/secinfo/streamers"
 	"github.com/spf13/afero"
 )
 

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/infosecstreams/secinfo/streamers"
+	"github.com/infosecstreams-mirror/secinfo/streamers"
 )
 
 const (

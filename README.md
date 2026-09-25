@@ -1,10 +1,10 @@
 # Secinfo
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/infosecstreams/secinfo.svg)](https://pkg.go.dev/github.com/infosecstreams/secinfo)
-[![Go Report Card](https://goreportcard.com/badge/github.com/infosecstreams/secinfo)](https://goreportcard.com/report/github.com/infosecstreams/secinfo)
-[![](https://img.shields.io/github/workflow/status/infosecstreams/secinfo/Tests?longCache=tru&label=Tests&logo=github%20actions&logoColor=fff)](https://github.com/infosecstreams/secinfo/actions?query=workflow%3ATests)
+[![Go Reference](https://pkg.go.dev/badge/github.com/infosecstreams-mirror/secinfo.svg)](https://pkg.go.dev/github.com/infosecstreams-mirror/secinfo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/infosecstreams-mirror/secinfo)](https://goreportcard.com/report/github.com/infosecstreams-mirror/secinfo)
+[![](https://img.shields.io/github/workflow/status/infosecstreams/secinfo/Tests?longCache=tru&label=Tests&logo=github%20actions&logoColor=fff)](https://github.com/infosecstreams-mirror/secinfo/actions?query=workflow%3ATests)
 
-This is code in Golang that will read a csv file and generate updated markdown files to be displayed on https://github.com/infosecstreams/infosecstreams.github.io/
+This is code in Golang that will read a csv file and generate updated markdown files to be displayed on https://github.com/infosecstreams-mirror/infosecstreams-mirror.github.io/
 
 ## Development
 
